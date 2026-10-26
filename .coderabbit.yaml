@@ -1,0 +1,11 @@
+language: "en-US"
+
+reviews:
+  profile: "chill"
+
+  auto_review:
+    enabled: true
+    auto_incremental_review: true
+    drafts: false
+
+  request_changes_workflow: false
